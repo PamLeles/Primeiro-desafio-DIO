@@ -1,5 +1,5 @@
 # Primeiro-desafio-DIO
-Desafio de projeto DIO, criação do primeiro repositório.
+Desafio de projeto DIO, criação do primeiro repositório com links, guia e dicas de comandos
 
 ## links úteis 
 [Dowloand do Git](https://git-scm.com/downloads) <p>
